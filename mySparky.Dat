@@ -1,0 +1,22 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~233|Field=Designator~String~Designator~68|Field=Footprint~String~Footprint~68|Field=LibRef~String~LibRef~68|Field=Quantity~Integer~Quantity~68|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~mySparky.PrjPcb|ReportField=ProjectFullPath~F:\Source\PCB\mySparky\mySparky.PrjPcb|ReportField=Title~Bill of Materials For Project [mySparky.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~48|ReportField=ReportTime~16:58:40|ReportField=ReportDate~2020/6/3|ReportField=ReportDateTime~2020/6/3 16:58:40|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/6/3|ReportField=CurrentTime~15:51:19|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Source\PCB\mySparky\connector.SchDoc|ReportField=DocumentName~connector.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2020/6/2|ReportField=Organization~|ReportField=ProjectName~mySparky.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~mySparky.PrjPcb|ReportField=DataSourceFullPath~F:\Source\PCB\mySparky\mySparky.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|10nF|贴片电阻|C2, C5, C8, C10, C13|0402C|cap|5
+2|10uF|贴片电阻|C3, C4, C6|0805-1|cap|3
+3|100nF|贴片电阻|C11, C12, C14, C15, C16, C18, C19, C20, C22, C27, C38|0402C|cap|11
+4|2.2uF|贴片电阻|C17, C21|0402C|cap|2
+5|USB|USB Micro USB R/A Type B|CONN1|USB_MIC|USB-MIC|1
+6|BAT54C|Dual Diode Command Cathode BAT54C|D1|SOT23|BAT54C|1
+7|pad|11pin pad|JP1|1.27*11|1.27*11|1
+8|pad|15pin pad|JP2|1.27*15|1.27*15|1
+9|1uH|贴片电感|L2|L0603|inducer|1
+10|LED-B|LED-BLUE|LED1|0402LED B|LED-B|1
+11|LED_GREEN_PWR|绿色led|LED2|0402LED G|LED_GREEN|1
+12|10K|贴片电阻|R1, R3, R4, R5, R10, R16, R18, R20, R21|0402R|Res-0402|9
+13|330R|贴片电阻|R2, R8|0402R|Res-0402|2
+14|22R|贴片电阻|R11, R13|0402R|Res-0402|2
+15|STM32F405RGT6|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 51 I/Os, 64-pin LQFP, -40 to 85 degC, Tray|U1|STM-LQFP64_N|STM32F405RGT6|1
+16|LP2992-3.3|LP2992IM5-3.3/NOPBCT-ND|U2|SOT-23-5L|LP2992-3.3|1
+17|MPU9250||U4|QFN24-0.4|MPU9250|1
+18|XOR|XOR Gate SN74LVC1G86DCKR|U6|SC70-5|XOR|1
+19|MS5611|MS561101BA03|U7|MS5611-01BA|MS5611|1
+20|Flash 16Mbits|16Mbit SPI Flash Memory|U9|SO8_N|Flash|1
+21|8MHz||X1|XTAL3215|XTAL-3215|1
